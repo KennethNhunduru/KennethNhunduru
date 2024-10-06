@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on your Web Design and Software Development projects. I'm a project-deliverables-focused developer with experience in HTML, CSS, JavaScript, Python, SQL, C# and DOTNET, ASP.NETCoreMVC, OOP, Entity Frameworks and more. What makes me standout is my dedication,reliability, honesty, and, above all, my commitment to delivering expected outcomes on projects.
 - 📫 I can be reached on my email address which is available in the public domain on Github...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My background is in engineering having graduated with an honours degree in Electrical and Electronics Engineering from the University of Canterbury in the beatiful city of Christchurch in New Zealand.
+- ⚡ Fun fact: My background is in engineering having graduated with an honours degree in Electrical and Electronics Engineering from the University of Canterbury in the beautiful city of Christchurch in New Zealand.
 
 <!---
 KennethNhunduru/KennethNhunduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
